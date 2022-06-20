@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "zipfextR"]
+	path = zipfextR
+	url = https://github.com/ardlop/zipfextr
+	shallow = true
+	registered = true
